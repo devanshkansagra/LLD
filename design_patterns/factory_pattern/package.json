@@ -1,0 +1,21 @@
+{
+  "name": "factory_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/mysql": "^2.15.27",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "mongoose": "^9.1.5",
+    "mysql": "^2.18.1"
+  }
+}
